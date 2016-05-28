@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main(){
-printf("hello/n/n");
+printf("hell/n/n");
 return 0;
 }
